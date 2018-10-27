@@ -7,6 +7,8 @@ y = np.sin(x)
 
 plt.plot(x,y,'o')
 
+plt.title('Sinus function curve')
+
 plt.show()
 
 
